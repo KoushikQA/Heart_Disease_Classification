@@ -1,6 +1,6 @@
 # KoushikPal # 
 
-I am working in Accenture as an Quality Engineering Architecture Analyst. 
+I am currently working as an Quality Engineering Architecture Analyst in a MNC 
 
 My recent specilization is on Machine Learning and Data Science
 
