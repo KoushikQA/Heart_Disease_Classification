@@ -1,9 +1,11 @@
-# KoushikPal # 
+# Heart Disease Classification # 
 
-I am currently working as an Quality Engineering Architecture Analyst in a MNC 
+To classify presence of heart disease using various machine learning algorithms and compare their performance.
 
-My recent specilization is on Machine Learning and Data Science
+o	Conducted EDA on the dataset
 
-This repository showcases ML Projects completed till now by me
+o	Applied One-Hot Encoding to convert categorical data into numerical format
 
-! Hope you like it !
+o	Used multiple ML Models like – Logistic Regression, KNN, SVM, Naïve Bayes Model, Decision Tree to train the model
+
+o	Calculated Accuracy of each model
